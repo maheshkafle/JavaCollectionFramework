@@ -1,10 +1,7 @@
-package HashMap;
+package Map;
 
-import javax.swing.*;
-import java.security.KeyStore;
 import java.util.HashMap;
 import java.util.Iterator;
-import java.util.Locale;
 import java.util.Map;
 
 public class HashMapDemo {

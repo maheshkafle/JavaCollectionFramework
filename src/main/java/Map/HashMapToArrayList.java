@@ -1,6 +1,5 @@
-package HashMap;
+package Map;
 
-import javax.swing.text.html.HTMLDocument;
 import java.util.*;
 
 public class HashMapToArrayList {
